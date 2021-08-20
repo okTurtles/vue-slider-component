@@ -26,8 +26,7 @@
     "theme"
   ],
   "dependencies": {
-    "core-js": "^3.16.2",
-    "vue-property-decorator": "^8.0.0"
+    "core-js": "^3.16.2"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^7.3.1",
@@ -52,7 +51,7 @@
     "uslug": "^1.0.4",
     "vue": "^2.6.6",
     "vue-markdown-loader": "^2.4.1",
-    "vue-property-decorator": "^8.0.0",
+    "vue-property-decorator": "^8.5.1",
     "vue-router": "^3.0.2",
     "vue-template-compiler": "^2.6.6",
     "vuep": "^0.8.1"
