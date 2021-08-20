@@ -455,10 +455,11 @@
         var __WEBPACK_AMD_DEFINE_FACTORY__,
           __WEBPACK_AMD_DEFINE_ARRAY__,
           __WEBPACK_AMD_DEFINE_RESULT__ // addapted from the document.currentScript polyfill by Adam Miller
-          // MIT license
-          // source: https://github.com/amiller-gh/currentScript-polyfill
+        // MIT license
+        // source: https://github.com/amiller-gh/currentScript-polyfill
 
-          // added support for Firefox https://bugzilla.mozilla.org/show_bug.cgi?id=1620505
+        // added support for Firefox https://bugzilla.mozilla.org/show_bug.cgi?id=1620505
+
         ;(function(root, factory) {
           if (true) {
             !((__WEBPACK_AMD_DEFINE_ARRAY__ = []),
@@ -1780,6 +1781,7 @@ and limitations under the License.
           }
         }
         var KEY_CODE
+
         ;(function(KEY_CODE) {
           KEY_CODE[(KEY_CODE['PAGE_UP'] = 33)] = 'PAGE_UP'
           KEY_CODE[(KEY_CODE['PAGE_DOWN'] = 34)] = 'PAGE_DOWN'
@@ -2139,6 +2141,7 @@ and limitations under the License.
         }
 
         var ERROR_TYPE
+
         ;(function(ERROR_TYPE) {
           ERROR_TYPE[(ERROR_TYPE['VALUE'] = 1)] = 'VALUE'
           ERROR_TYPE[(ERROR_TYPE['INTERVAL'] = 2)] = 'INTERVAL'
