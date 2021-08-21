@@ -3296,7 +3296,7 @@
   "resolved" "https://registry.npmjs.org/core-js/-/core-js-2.6.12.tgz"
   "version" "2.6.12"
 
-"core-js@^3.16.2", "core-js@^3.6.5":
+"core-js@^3.6.5":
   "integrity" "sha512-P0KPukO6OjMpjBtHSceAZEWlDD1M2Cpzpg6dBbrjFqFhBHe/BwhxaP820xKOjRn/lZRQirrCusIpLS/n2sgXLQ=="
   "resolved" "https://registry.npmjs.org/core-js/-/core-js-3.16.2.tgz"
   "version" "3.16.2"
